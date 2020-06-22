@@ -1,0 +1,205 @@
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	color:#6d6d6d;
+	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
+	background:#fff url(https://quantilus.com/wp-content/uploads/2018/07/background-2.jpg) repeat-x left 115px;
+}
+.post_content a.rn {
+display:block;
+	float:right;
+	margin:0 0 16px;
+	padding:9px 0 0;
+	font-size:13px;
+	line-height:16px;
+	font-weight:normal;
+	text-transform:none;
+	color:white;
+	text-decoration:none;
+	text-align:center;
+	border: 1px solid none;
+	background-color: #FF4000;
+	padding-bottom: 5px;
+	width: 80px;
+	border-radius: 5px;
+	
+	
+}
+.post_content a.rn:hover {
+	text-decoration:underline;
+}
+
+.article a.name {
+	text-decoration: none;
+}
+
+.article a.name:hover {
+	text-decoration:underline;
+}
+
+.mainbar .detailcontent{
+	width:350px;
+	float: left;
+}
+.mainbar .detailcontent .vnecontentv p{
+	width:330px;
+	float: left;
+}
+.article1{
+	width:220px;
+	float: right;
+}
+.article1 a.name{
+	font-size: 14px;
+	color: #2E2E2E;
+
+}
+.article1 a.name:hover{
+	color: #0B610B;
+	
+}
+.main .cs-title{
+	    padding: 20px 60px 20px 24px;
+    width: 876px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.5em;
+    background: url(../images/overlay.png) repeat left top;
+}
+#span_slide{
+	background-color: red;
+	font-size: 300%;
+	display: block;
+	
+}
+.slider .text{
+	color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: relative;
+  float:left;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.article .icon_listen{
+	position: absolute;
+    color: #999999;
+    right: 0;
+    font-size: 12px;
+    background: url(https://img.icons8.com/ios-filled/20/000000/headphones.png);
+    padding-left: 15px;
+    line-height: 24px;
+    display: block;
+    margin: 1px 0 0 0;
+}
+.ex_menu .cat_active{
+	color: red;
+}
+.slider .title{
+	 .title { 
+      margin: 0 auto 15px;
+      max-width: 1000px;
+      font: 300 50px/1.2 "Oswald", sans-serif;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+    }
+}
+
+ ul.cat_menu li.cat_active a{
+	color:#FE642E;
+	font-weight: bold;
+}
+ul.cat_menu li.cat_active{
+	border-bottom-color: #FE642E;
+	border-bottom: solid 2px;
+}
+
+ul.cat_menu, ul.ex_menu {
+	margin:0;
+	padding:0;
+	list-style:none;
+	color:red;
+}
+ul.cat_menu li, ul.ex_menu li {
+	margin:0;
+	border-bottom:1px solid #e8e8e8;
+}
+ul.cat_menu li {
+	padding:8px 0;
+	width:220px;
+}
+ul.cat_menu li a {
+	color:#6e6e6e;
+	text-decoration:none;
+	margin-left:-16px;
+	padding:4px 8px 4px 16px;
+}
+.menu_na {
+	margin:0 auto;
+	padding:39px 0 0;
+	height:36px;
+	float:right;
+}
+.menu_na ul {
+	list-style:none;
+	padding:0;
+	height:36px;
+	float:left;
+}
+.menu_na ul li {
+	margin:0;
+	padding:0 0 0 4px;
+	float:left;
+}
+.menu_na ul li a {
+	display:block;
+	margin:0;
+	padding:12px 0 0;
+	width:86px;
+	height:41px;
+	font-size:13px;
+	line-height:17px;
+	font-weight:normal;
+	color:#4e4f4f;
+	text-decoration:none;
+	text-transform:none;
+	text-align:center;
+	background:no-repeat left top;
+}
+.menu_na ul li.hd_active a{
+	color:#FE642E;
+	font-weight: bold;
+	
+	
+}
+.menu_na ul li.hd_active{
+	border-bottom-color: #FE642E;
+	border-bottom: solid 2px;
+}
+.menu_na ul li.active a, .menu_na ul li a:hover {
+	text-decoration:none;
+	font-size:15px;
+	color:#FE642E;
+	
+}
+.header_resizee {
+	margin:0 auto;
+	padding:0;
+	width:960px;
+}
+.logoo {
+	padding:0;
+	float:none;
+	float:left;
+	width:auto;
+	height:141px;
+}
+ 
+.slider {
+	padding:13px 12px 8px 13px;
+	background:no-repeat center bottom;
+	width: auto;
+	size: 200%;
+}

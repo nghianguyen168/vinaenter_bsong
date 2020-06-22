@@ -1,0 +1,21 @@
+#delUser{
+	border: 1px solid transparent;
+    border-radius: 4px;
+        color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    font-size: 14px;
+    font-weight: normal;
+        padding: 6px 12px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    text-decoration:none;
+    
+    height: 50px;
+	
+}
+#delUser:hover{
+	 background-color: #088A08;
+}
